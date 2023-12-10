@@ -9,9 +9,9 @@ A purple dark theme
 
 ```
 {
-  "colorBg": "#0a0a0b",
-  "colorFg": "#7cdebe",
-  "colorHighlightBg": "#8eaad7",
-  "colorAccentBg": "#242428",   
+  "colorBg": "#2f0f48",
+  "colorFg": "#7bc2d7",
+  "colorHighlightBg": "#7795ff",
+  "colorAccentBg": "#373778", 
 }
 ```
